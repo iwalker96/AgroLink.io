@@ -482,6 +482,10 @@ footer .footer-content {
 
     }
 
+     .products .product-top h2 {
+        font-size: 36px;
+     }
+
      footer .footer-top {
         flex-direction: column;
         text-align: center;
